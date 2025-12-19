@@ -1,0 +1,73 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Image files (exclude actual images but keep folder structure)
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.tiff
+*.tif
+*.webp
+
+# Model files (can be regenerated)
+*.pkl
+*.h5
+*.hdf5
+*.pb
+*.onnx
+
+# Data files (exclude actual data but keep structure)
+*.npy
+*.npz
+*.csv
+*.json
+
+# Reports (can be regenerated)
+reports/*.txt
+reports/*.html
+
+# Logs
+*.log
+logs/
+
+# Keep folder structure - add .gitkeep files manually if needed
+!**/.gitkeep
+
+# Keep empty directories by adding .gitkeep
+!.gitkeep
