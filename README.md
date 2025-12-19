@@ -171,8 +171,8 @@ python apps/app.py
 ```
 
 ## 📈 Results
-- **SVM**: 82% accuracy on test set
-- **KNN**: 68% accuracy on test set
+- **SVM**: 72.8% accuracy on test set
+- **KNN**: 54.9% accuracy on test set
 - **Real-time**: ~30 FPS camera detection
 - **Training time**: ~2-3 minutes per model
 
