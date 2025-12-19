@@ -3,8 +3,8 @@
 AI-powered material classification system that identifies 6 types of materials: **Glass, Paper, Cardboard, Plastic, Metal, Trash** using computer vision and machine learning.
 
 ## 🎯 Performance
-- **SVM Model**: 82% accuracy
-- **KNN Model**: 68% accuracy
+- **SVM Model**: 72.8% accuracy
+- **KNN Model**: 54.9% accuracy
 - **Real-time Camera Detection**: Live classification via webcam
 
 ## 📋 Requirements
